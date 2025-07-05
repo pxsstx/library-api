@@ -86,7 +86,7 @@ POST /users/:userId/borrows
 
 > 🔗
 >
-> [เปิดใน Postman](https://rust-rest-api.postman.co/workspace/My-Workspace~b7b02ddf-15ba-4687-8df8-887ec60a056b/collection/30438740-6ccb16b9-4619-4a62-9ac0-ce91a68e8b07?action=share&source=copy-link&creator=30438740)
+> [เปิดใน Postman](https://rust-rest-api.postman.co/workspace/rust-rest-api-Workspace~03181e18-588b-4480-ba9d-8d8502b6cf6e/collection/30438740-6ccb16b9-4619-4a62-9ac0-ce91a68e8b07?action=share&source=copy-link&creator=30438740)
 
 ---
 
